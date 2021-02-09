@@ -35,3 +35,4 @@ NewsEventTrades_latestoccurrence,date
 NewsEventTrades_rank,number
 NewsEventTrades_details_analysiswindowindays,number
 NewsEventTrades_details_eventstraded,text
+LoginID,text
